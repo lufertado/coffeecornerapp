@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.coffeecorner.service.InvoiceServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-30T04:44:51" hostname="POOLBOG135577" time="0.017">
+  <properties/>
+  <testcase name="testInvoiceDiscounts" classname="com.coffeecorner.service.InvoiceServiceTest" time="0.009"/>
+  <testcase name="testInvoiceTotal" classname="com.coffeecorner.service.InvoiceServiceTest" time="0.005"/>
+  <testcase name="testInvoiceDetails" classname="com.coffeecorner.service.InvoiceServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
